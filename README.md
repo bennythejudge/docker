@@ -1,5 +1,7 @@
 # Official Jenkins Docker image
 
+[![GuardRails badge](https://badges.production.guardrails.io/bennythejudge/docker.svg)](https://www.guardrails.io)
+
 The Jenkins Continuous Integration and Delivery server.
 
 This is a fully functional Jenkins server, based on the Long Term Support release
